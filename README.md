@@ -1,2 +1,3 @@
 # react-bootcamp
-this repository contains all the small projects I used made during learning react.
+
+this repository contains all the small projects I made during learning react.
